@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+===================================================================
+
+Sprite sheet file created for UIKit using TexturePacker
+http://www.codeandweb.com/texturepacker
+
+===================================================================
+$TexturePacker:SmartUpdate:2e5691401a107bf87e1d60b88ba25761:b756e71e084914d4dbf27e6bea0db8ca:4847b8d19b76d7de4fa4d399fbea06a4$
+-->
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+
+                        <key>img_ar_right_answer_gif_0000</key>
+			<dict>
+				<key>x</key><real>978</real>
+				<key>y</key><real>1</real>
+				<key>w</key><real>471</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>0</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0001</key>
+			<dict>
+				<key>x</key><real>1408</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>431</real>
+				<key>h</key><real>286</real>
+				<key>oX</key><real>40</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0002</key>
+			<dict>
+				<key>x</key><real>1</real>
+				<key>y</key><real>1</real>
+				<key>w</key><real>491</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0003</key>
+			<dict>
+				<key>x</key><real>1</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0004</key>
+			<dict>
+				<key>x</key><real>494</real>
+				<key>y</key><real>1</real>
+				<key>w</key><real>482</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0005</key>
+			<dict>
+				<key>x</key><real>470</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0006</key>
+			<dict>
+				<key>x</key><real>1451</real>
+				<key>y</key><real>1</real>
+				<key>w</key><real>394</real>
+				<key>h</key><real>391</real>
+				<key>oX</key><real>77</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0007</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0008</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0009</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0010</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0011</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0012</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0013</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0014</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0015</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0016</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+                        <key>img_ar_right_answer_gif_0017</key>
+			<dict>
+				<key>x</key><real>939</real>
+				<key>y</key><real>458</real>
+				<key>w</key><real>467</real>
+				<key>h</key><real>455</real>
+				<key>oX</key><real>4</real>
+				<key>oY</key><real>23</real>
+				<key>oW</key><real>495</real>
+				<key>oH</key><real>495</real>
+				
+			</dict>
+		</dict>
+		<key>meta</key>
+		<dict>
+			<key>image</key>
+			<string>img_ar_right_answer_gif.png</string>
+			<key>width</key>
+			<integer>1846</integer>
+			<key>height</key>
+			<integer>914</integer>
+		</dict>
+	</dict>
+</plist>

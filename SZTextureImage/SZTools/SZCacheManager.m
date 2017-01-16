@@ -7,6 +7,7 @@
 //
 
 #import "SZCacheManager.h"
+#import <UIKit/UIKit.h>
 
 @implementation SZCacheManager
 
@@ -25,6 +26,32 @@
 		cacheManager.spirteImageCache.name = @"CacheManager_spirteImageCache";
 	});
 	return cacheManager;
+}
+
+- (instancetype)init {
+	if (self = [super init]) {
+		_shouldRemoveAllObjectsOnMemoryWarning = YES;
+		_shouldRemoveAllObjectsWhenEnteringBackground = YES;
+		[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(_appDidReceiveMemoryWarningNotification) name:UIApplicationDidReceiveMemoryWarningNotification object:nil];
+		[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(_appDidEnterBackgroundNotification) name:UIApplicationDidEnterBackgroundNotification object:nil];
+	}
+	return self;
+}
+
+- (void)_appDidReceiveMemoryWarningNotification {
+	if (_shouldRemoveAllObjectsOnMemoryWarning) {
+		[self.imageCache removeAllObjects];
+		[self.spirteDataCache removeAllObjects];
+		[self.spirteImageCache removeAllObjects];
+	}
+}
+
+- (void)_appDidEnterBackgroundNotification {
+	if (_shouldRemoveAllObjectsWhenEnteringBackground) {
+		[self.imageCache removeAllObjects];
+		[self.spirteDataCache removeAllObjects];
+		[self.spirteImageCache removeAllObjects];
+	}	
 }
 
 - (void)removeObjectForKey:(NSString *)key {
